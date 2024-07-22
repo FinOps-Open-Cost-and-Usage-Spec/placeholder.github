@@ -21,7 +21,7 @@
         <td> </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA" target="_blank">EasyCLA</a></td>
+        <td><a href="https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA" target="_blank">EasyCLA</a> </br> <strong>Create</strong> a PR against this repository to join us. Your company <strong>MUST</strong> sign the FOCUS Membership Agreement. <i>Individual contributors cannot be members. </i></td>
         <td>  </td>
     </tr>
 </table>
