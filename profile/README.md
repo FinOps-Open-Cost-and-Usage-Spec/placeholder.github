@@ -5,9 +5,10 @@
 <html>
 
 <table>
+</head>
     <tr>
-        <td rowspan="4">
-            <img src="https://github.com/user-attachments/assets/cd5717e8-383f-4530-bb54-9e17522c8375" alt="FOCUS Logo" style="width:100px;height:100px;">
+        <td rowspan="4" style="width: 33.33%;">
+            <img src="https://github.com/user-attachments/assets/cd5717e8-383f-4530-bb54-9e17522c8375" alt="FOCUS Logo" style="width:100%;height:auto;">
         </td>
         <td><strong>Tech Specification</strong></td>
         <td><strong>Process</strong></td>
