@@ -13,7 +13,7 @@
         <td><strong>Process</strong></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec" target="_blank">FOCUS_Spec</a></td></br> You <strong>MUST</strong> be a Member to contribute.</td>
+        <td><a href="https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec" target="_blank">FOCUS_Spec</a></br> You <strong>MUST</strong> be a Member to contribute.</td>
         <td><a href="https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation" target="_blank">FOCUS Process</a> (<i>foundation</i>)</td>
     </tr>
     <tr>
